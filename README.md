@@ -13,19 +13,19 @@ SpaceX reduces launch costs by reusing the Falcon 9 first stage. Predicting land
 ## 📁 Repository Structure
 
 falcon9-landing-prediction/
-├──# Module 1: Data Collection and Wrangling
-│ ├── m1lab1_data_collection_api.ipynb
-│ ├── m1lab2_web_scraping.ipynb
-│ └── m1lab3_data_wrangling.ipynb
-├──# Module 2: Exploratory Data Analysis
-│ ├── m2lab1_eda_sql.ipynb
-│ └── m2lab2_eda_visualization.ipynb
-├── # Module 3: Visual Analytics and Dashboard
-│ ├── m3lab1_visual_analytics_folium.ipynb
-│ └── m3lab2_plotly_dash_dashboard.pdf
-├── # Module 4: Machine Learning Prediction
-│ └── m4lab1_machine_learning.ipynb
-├── README.md
+# Module 1: Data Collection and Wrangling
+─ m1lab1_data_collection_api.ipynb
+─ m1lab2_web_scraping.ipynb
+─ m1lab3_data_wrangling.ipynb
+# Module 2: Exploratory Data Analysis
+─ m2lab1_eda_sql.ipynb
+─ m2lab2_eda_visualization.ipynb
+# Module 3: Visual Analytics and Dashboard
+─ m3lab1_visual_analytics_folium.ipynb
+─ m3lab2_plotly_dash_dashboard.pdf
+# Module 4: Machine Learning Prediction
+─ m4lab1_machine_learning.ipynb
+README.md
 ---
 
 ## 📝 Notebooks Overview
